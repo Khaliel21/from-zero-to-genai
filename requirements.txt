@@ -1,0 +1,23 @@
+# Core LangChain & extensions
+langchain==0.2.10
+langchain-community==0.2.10
+langchain-groq==0.1.6
+langchain-huggingface
+langchain-pinecone
+langserve
+langgraph
+
+# Data handling
+python-dotenv==1.0.1
+pypdf==4.3.1
+bs4==0.0.2                 # For HTML parsing
+unstructured==0.15.0       # For HTML processing
+wikipedia==1.4.0
+
+# Vector DB & retrievers
+faiss-cpu
+pinecone-notebooks         # Pinecone demos / SDKs
+
+# Networking / streaming
+httpx==0.27.0
+sse_starlette
