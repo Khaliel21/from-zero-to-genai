@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner-genai.png" alt="From Zero to GenAI banner" width="100%">
+</p>
+
 # 🤖 From Zero to GenAI
 
 > A hands-on journey into the world of Generative AI — from chatbots to LangChain agents, from retrieval to orchestration 🚀
